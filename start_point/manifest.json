@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/java_junit:97411ac",
+  "image_name": "cyberdojofoundation/java_junit:latest",
   "display_name": "Java, JUnit",
   "visible_filenames": [
     "HikerTest.java",
