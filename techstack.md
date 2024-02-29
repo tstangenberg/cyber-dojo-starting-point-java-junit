@@ -3,8 +3,8 @@
 ## Tech Stack
 tstangenberg/cyber-dojo-starting-point-java-junit is built on the following main stack:
 
-- [CircleCI](https://circleci.com/) – Continuous Integration
 - [Java](https://www.java.com) – Languages
+- [CircleCI](https://circleci.com/) – Continuous Integration
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -15,8 +15,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 tstangenberg/cyber-dojo-starting-point-java-junit is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tstangenberg/cyber-dojo-starting-point-java-junit](https://github.com/tstangenberg/cyber-dojo-starting-point-java-junit)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/31/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
